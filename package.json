@@ -19,5 +19,6 @@
   "dependencies": {
     "datalib": "^1.8.0",
     "fast-csv": "^2.4.1"
+    "papaparse": "^4.5.0"
   }
 }
